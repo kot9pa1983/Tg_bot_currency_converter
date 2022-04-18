@@ -1,0 +1,5 @@
+TOKEN = "5352205858:AAFlLwgRTEjSk6PiVr8UCFIEy6zGIyKclZ4"
+
+exchangerate_api_key = '4f3043f9925062d53cb45698'
+
+your_api_key = '5593595bc2f6743e8fdf517e13ade4401c19e6fbb461d729c5f0447e249b9a0d'
